@@ -1,9 +1,9 @@
-# build-and-deploy-70-data-science-proyects-
-Learn To Build &amp; Deploy Data Science, ML, Deep Learning Projects (Python, Flask, Django, AWS, Azure, GCP, Heruko Cloud)
+# build-and-deploy-70-data-science-proyects
+i Build &amp; Deploy Data Science, ML, Deep Learning Projects (Python, Flask, Django, AWS, Azure, GCP, Heruko Cloud)
 
 
 
-In This Course, Solve Business Problems Using Data Science Practically. Learn To Build & Deploy Machine Learning, Data Science, Artificial Intelligence, Auto Ml, Deep Learning, Natural Language Processing (Nlp) Web Applications Projects With Python (Flask, Django, Heroku, AWS, Azure, GCP, IBM Watson, Streamlit Cloud).
+I Solve Business Problems Using Data Science Practically. Learn To Build & Deploy Machine Learning, Data Science, Artificial Intelligence, Auto Ml, Deep Learning, Natural Language Processing (Nlp) Web Applications Projects With Python (Flask, Django, Heroku, AWS, Azure, GCP, IBM Watson, Streamlit Cloud).
 
 PROYECTS
 
@@ -134,7 +134,7 @@ Project-60: Book Genre Classification App -Deploy On Amazon Web Services
 
 
 
-WHAT I LEARNT 
+WHAT I LEARNED
 Understand the full product workflow for the machine learning lifecycle.
 Master Machine Learning on Python
 Have a great intuition of many Machine Learning models
@@ -144,6 +144,5 @@ Learn best practices when it comes to Data Science Workflow
 Build a portfolio of work to have on your resume
 
 WARNING 
-these are only my notebooks that i created while i was taking the course from UDEMY "Data Science Mega-Course: #Build {60-Projects In 60-Days}
+these are only my notebooks that i created while i was taking the course from UDEMY called "Data Science Mega-Course: #Build {60-Projects In 60-Days}
 " by Pianalytix. i recommend you go to UDEMY and buy this course and take every lesson to enhence your skills.  
-IF you want to le
